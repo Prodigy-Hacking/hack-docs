@@ -2,24 +2,47 @@
 layout: full
 homepage: true
 disable_anchors: true
-description: If mediocrity had a Jekyll theme...
+description: Getting Started
 ---
-
-A Jekyll theme inspired by Bootstrap's official documentation theme from a few years back. This theme started off by stealing all of Bootstrap Docs' CSS and being used in [mistic100's theme](https://github.com/mistic100/jekyll-bootstrap-doc). This theme has since be rewritten from scratch and remains solely inspired by the original design.
-
-> I've never seen a more mediocre theme it actually hurts my insides.
->
-> ~ _Anonymous_, 2020
-
-This theme is designed for writing documentation websites instead of having large unmaintainable README files or several markdown files inside of a folder in a repository.
 
 <div class="row">
 <div class="col-lg-6" markdown="1">
 
 ## Installation
-{:.mt-lg-0}
 
-This theme is designed to work both as a Gem or as a remote theme, meaning we officially support GitHub Pages.
+1.) Install the [Prodigy Hacking Extension](https://chrome.google.com/webstore/detail/prodigyhacking/gjabpajagbgoifbkflgojeojmnlmioea) (also known as PHEx) from the Chrome Web Store.
+<br/>
+2.) Visit https://prodigygame.com
+<br/>
+3.) <b>Make a second account</b> and log in. DO NOT USE HACKS ON YOUR PRIMARY ACCOUNT. Hacks can damage your account if used improperly or excessively, and most hacks can't be undone.
+<br/>
+4.) A dropdown arrow will appear after 15-20 seconds.
+<br/>
+<br/>
+For a visual tutorial, see our YouTube tutorial: https://www.youtube.com/watch?v=j4l2RrZ0FRQ
+
+<hr>
+
+Alternately, use the developer mode method.
+<h2>Step 1:</h2>
+Go to chrome://extensions and enable developer mode.
+<br>
+
+<h2>Step 2</h2>
+Install the ZIP file below.
+<br>
+
+[phex.zip](https://github.com/Prodigy-Hacking/PHEx/raw/master/build/extension.zip)
+
+<h2>Step 3:</h2>
+Drag the ZIP file into chrome://extensions, remember to enable dev mode!
+
+<br>
+
+<h2>Step 4:</h2>
+Profit.
+
+<i>Note: cheat menu is a dropdown arrow in the top left corner. It may take 10-15 seconds to appear.</i>
 
 ### Gem
 
