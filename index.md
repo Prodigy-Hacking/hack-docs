@@ -19,30 +19,6 @@ description: Getting Started
 4.) A dropdown arrow will appear after 15-20 seconds.
 <br/>
 <br/>
-For a visual tutorial, see our YouTube tutorial: https://www.youtube.com/watch?v=j4l2RrZ0FRQ
-
-<hr>
-
-Alternately, use the developer mode method.
-<h2>Step 1:</h2>
-Go to chrome://extensions and enable developer mode.
-<br>
-
-<h2>Step 2</h2>
-Install the ZIP file below.
-<br>
-
-[phex.zip](https://github.com/Prodigy-Hacking/PHEx/raw/master/build/extension.zip)
-
-<h2>Step 3:</h2>
-Drag the ZIP file into chrome://extensions, remember to enable dev mode!
-
-<br>
-
-<h2>Step 4:</h2>
-Profit.
-
-<i>Note: cheat menu is a dropdown arrow in the top left corner. It may take 10-15 seconds to appear.</i>
 
 ### Gem
 
